@@ -3,7 +3,7 @@
 <h3 align="center">A software Developer from Kenya 👨🏾‍🎓</h3>
 <!--<img align="right" alt="image" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf6Wg0SD7N7RM5d1JEzGM2909DecmcN8oTZw&usqp=CAU">-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbwika-07" alt="mbwika-07" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbwika-07" alt="mbwika-07" /></a> </p>-->
 
 - 🔭 I’m currently working on [Kazi Kwetu job search app](https://github.com/Mbwika-07/Kazi-Kwetu-Job-Search-App)
 
